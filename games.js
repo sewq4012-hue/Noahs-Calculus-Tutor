@@ -1,4 +1,10 @@
 const games = [
+  {title: "The True Poki",
+  url: "https://sites.google.com/view/thetruepoki",
+  image: "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/e3bcb5cf690fccd7e4cf4ef8e6a04f77.png",
+  desc: "Play hundreds of free unblocked online games — action, adventure, puzzle, and more. The true Poki experience!",
+  popular: true
+},
       { title: "I Have No Mouth, and I Must Scream", desc: "A psychological horror adventure where you must outsmart a malevolent AI in a series of twisted trials.", url: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/games/413.html", image: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/images/413.jpg" },
       { title: "CheeseRoll", desc: "A physics-based racing game where you chase a giant wheel of cheese down a steep, treacherous hill.", url: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/games/414.html", image: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/images/414.jpg" },
       { title: "Eggy Car", desc: "Navigate a wobbly, physics-driven car through challenging terrain in this quirky driving simulator.", url: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/games/415.html", image: "https://raw.githubusercontent.com/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/refs/heads/master/images/415.jpg" },
